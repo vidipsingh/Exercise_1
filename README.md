@@ -6,7 +6,7 @@ int main() {
    printf("Enter the number you want multiplication of : ");
    scanf("%d", &a);
    
-   printf("Table of 6 : \n");
+   printf("Table of %d : \n");
 
    printf("%d\n", a*1);
    printf("%d\n", a*2);
